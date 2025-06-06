@@ -25,9 +25,10 @@ This project is a complete redesign of the WeWantWaste skip selection page, tran
 - Lucide React (icons)
 
 ## Installation & Usage
+![Image](https://github.com/user-attachments/assets/859fdffc-8ba6-4bee-8bf3-2e6d43e43b39)
 ```bash
 git clone https://github.com/ABDULHAMIT-KAHYA/REM.git
 cd REM
 npm install
 npm run dev
-![Image](https://github.com/user-attachments/assets/859fdffc-8ba6-4bee-8bf3-2e6d43e43b39)
+
