@@ -31,3 +31,4 @@ cd REM
 npm install
 npm run dev
 ![Screenshot 2025-06-07 000040.png](./assets/![Screenshot 2025-06-07 000040.png](./assets/skip-image.png))
+![Screenshot 2025-06-07 000040.png](./assets/Screenshot 2025-06-07 000040.png)
