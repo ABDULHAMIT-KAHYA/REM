@@ -30,4 +30,4 @@ git clone https://github.com/ABDULHAMIT-KAHYA/REM.git
 cd REM
 npm install
 npm run dev
-![image](https://github.com/user-attachments/assets/7b32badf-8a62-4761-bb69-f5a6d3001852)
+![Screenshot 2025-06-07 000040.png](./assets/skip-image.png)
